@@ -10,5 +10,5 @@ The purpose of this repo is to
 
 # Accessibility
 - [What is accessibility?](https://web.dev/what-is-accessibility/) [web.dev]
-- [Google Accessibility Text Course[(https://developers.google.com/web/fundamentals/accessibility)
+- [Google Accessibility Text Course](https://developers.google.com/web/fundamentals/accessibility)
 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
