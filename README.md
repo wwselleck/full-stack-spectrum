@@ -12,3 +12,11 @@ The purpose of this repo is to
 - [What is accessibility?](https://web.dev/what-is-accessibility/) [web.dev]
 - [Google Accessibility Text Course](https://developers.google.com/web/fundamentals/accessibility)
 - [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+
+# Animation
+
+# DOM
+- [MDN DOM Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
+
+## DOM Events
+- [domevents.dev](https://domevents.dev/) - DOM event playground
