@@ -5,25 +5,29 @@ The purpose of this repo is to
 - in approximate order from "most client-side related" to "most server-side related",
 - along with a concise list resources to learn that subject
 
-# Layer 1 - Presentation
+# 🌞 HTML & CSS
+- 📝 [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/) - Blog post going deep into some CSS history and evolution
+## Metadata
+- 📝 [(MDN) What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+
 ## Accessibility
 - 📝 [Google Accessibility Text Course](https://developers.google.com/web/fundamentals/accessibility)
 - 🎥 [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 
-## Animation
-- 📫 [CSS Animation Weekly](http://weekly.cssanimation.rocks/) - Weekly newsletter
-- 📖 [CSS Animation 101](https://cssanimation.rocks/css-animation-101/)
 
+
+
+# 🖌️ Advanced Presentation
 ## Graphics
 - [(MDN) Drawing Graphics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics)
 ### Canvas
 - [(MDN) Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+### WebGL
+- [(MDN) WebGL: 2D and 3D graphics for the web](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 
-## CSS
-- 📝 [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/) - Blog post going deep into some CSS history and evolution
-
-
-
+## Animation
+- 📫 [CSS Animation Weekly](http://weekly.cssanimation.rocks/) - Weekly newsletter
+- 📖 [CSS Animation 101](https://cssanimation.rocks/css-animation-101/)
 
 
 
