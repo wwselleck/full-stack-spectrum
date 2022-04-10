@@ -55,7 +55,7 @@ The purpose of this repo is to
 - [(MDN) Video & Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 
 ## Browser Storage
-
+- [(MDN) Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage#client-side_storage)
 
 
 
