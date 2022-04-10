@@ -11,10 +11,12 @@ The purpose of this repo is to
 - 🎥 [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 
 ## Animation
+- 📫 [CSS Animation Weekly](http://weekly.cssanimation.rocks/) - Weekly newsletter
+- 📖 [CSS Animation 101](https://cssanimation.rocks/css-animation-101/)
 
 ## Graphics
 - [(MDN) Drawing Graphics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics)
-## Canvas
+### Canvas
 - [(MDN) Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 
 ## CSS
@@ -26,7 +28,18 @@ The purpose of this repo is to
 
 
 
-# Layer 2 - Browser Environment
+
+
+
+# Layer 2 - Javascript
+- 📖 [Just Javascript](https://justjavascript.com/)
+
+
+
+
+
+
+# Layer 3 - Browser Environment
 ## DOM
 - 📝 [(MDN) DOM Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
 
@@ -34,19 +47,14 @@ The purpose of this repo is to
 - 📝 [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events) (MDN)
 - 🪁 [domevents.dev](https://domevents.dev/) - DOM event playground
 
+## Web APIs
+### Network Requests
+- XMLHttpRequest
+- `fetch` API
+### Video & Audio
+- [(MDN) Video & Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 
-
-
-
-
-
-
-
-# Layer 3 - Javascript
-
-
-# HTTP
-
+## Browser Storage
 
 
 
@@ -58,3 +66,11 @@ The purpose of this repo is to
 
 ## Client-Side Routing
 - [Understanding client side routing](https://www.willtaylor.blog/client-side-routing-in-vanilla-js/)
+
+
+
+
+
+# Layer ?
+## Authentication
+- 📝 [Learn Authentication the Hard Way](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/)
