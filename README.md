@@ -110,7 +110,7 @@ _Needs to go somewhere_
 
 ---
 
-# 📊 Client Performance
+# ⏱ Client Performance
 - Performance metrics
 - Background tasks
 - Rendering
@@ -122,7 +122,7 @@ _Needs to go somewhere_
 
 ---
 
-# Single-Page Applications
+# 📃 Single-Page Applications
 - [The Single Page App Morality Play](https://www.baldurbjarnason.com/2021/single-page-app-morality-play)
 
 ## Client-Side Routing
@@ -134,7 +134,7 @@ _Needs to go somewhere_
 ---
 
 
-# SEO
+# 👩‍💻SEO
 - [Google SEO Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide)
 
 
@@ -142,7 +142,7 @@ _Needs to go somewhere_
 
 
 
-# Real-time Updates
+# ⚡️ Real-time Updates
 - Websockets
 - Polling
 - HTTP Push
@@ -153,7 +153,7 @@ _Needs to go somewhere_
 ---
 
 
-# Authentication
+# 💂 Authentication
 - 📝 [Learn Authentication the Hard Way](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/)
 
 
@@ -162,7 +162,7 @@ _Needs to go somewhere_
 
 
 
-# Web Security
+# 🔐 Web Security
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
 
