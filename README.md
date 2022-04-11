@@ -153,6 +153,23 @@ _Needs to go somewhere_
 ---
 
 
+
+# 🤹 API Design
+- 🎥 [How to Design a Good API and Why It Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
+- 📝 [Google API Design Guide](https://cloud.google.com/apis/design)
+- 📜 [json:api](https://jsonapi.org/) - General spec for a JSON-based API
+- REST
+- GraphQL
+- RPC
+
+
+
+
+
+---
+
+
+
 # 💂 Authentication
 - 📝 [Learn Authentication the Hard Way](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/)
 
