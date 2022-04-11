@@ -121,31 +121,50 @@ _Needs to go somewhere_
 - 
 
 ---
-## Web APIs
-### Network Requests
-- XMLHttpRequest
-- `fetch` API
-### Video & Audio
-- [(MDN) Video & Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 
-## Browser Storage
-- [(MDN) Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage#client-side_storage)
-
-
-
-# Offline Support
-
-
-
-# Layer 4 - Browser Application Development
+# Single-Page Applications
+- [The Single Page App Morality Play](https://www.baldurbjarnason.com/2021/single-page-app-morality-play)
 
 ## Client-Side Routing
 - [Understanding client side routing](https://www.willtaylor.blog/client-side-routing-in-vanilla-js/)
 
+## Offline Support
+- [(MDN) Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+
+---
+
+
+# SEO
+- [Google SEO Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide)
+
+
+---
+
+
+
+# Real-time Updates
+- Websockets
+- Polling
+- HTTP Push
 
 
 
 
-# Layer ?
-## Authentication
+---
+
+
+# Authentication
 - 📝 [Learn Authentication the Hard Way](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/)
+
+
+
+---
+
+
+
+# Web Security
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
+
+
+---
