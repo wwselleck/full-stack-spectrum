@@ -63,6 +63,12 @@ _Needs to go somewhere_
 
 ---
 
+# 📱 Mobile Friendly
+- [`viewport` meta tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
+
+
+---
+
 
 
 
