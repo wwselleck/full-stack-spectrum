@@ -12,27 +12,32 @@ _Needs to go somewhere_
 - NoSql
 
 # 🌞 HTML
-- 📝 [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/) - Blog post going deep into some CSS history and evolution
-## Metadata
-- 📝 [(MDN) What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
-## SVG
-- [(MDN) SVG Tutorial](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
 
-
+## Topics
+- `meta` tags
+  - `viewport`, `title`, `description`
+- SVG
 
 ---
 
 
 # 🖌️ CSS
-## Box Model
+- 📝 [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/) - Blog post going deep into some CSS history and evolution
 
-## Selectors
 
-## Positioning
-## Flexbox
-- 🧑‍🏫 [Flexbox Zombies](https://mastery.games/flexboxzombies/)
-## CSS Grid
-- 🧑‍🏫 [Grid Critters](https://gridcritters.com/)
+## Topics
+- CSS Units
+  - length (em, rem, px, vh, wh, ...)
+  - colors (rgba, hex, hsla)
+- CSS Selectors
+- Box model
+- `position` (differences between relative, absolute, fixed, etc.)
+- Responsive Design
+  - Media queries
+- Flexbox
+  - 🧑‍🏫 [Flexbox Zombies](https://mastery.games/flexboxzombies/)
+- CSS Grid
+  - 🧑‍🏫 [Grid Critters](https://gridcritters.com/)
 
 
 
@@ -50,21 +55,22 @@ _Needs to go somewhere_
 
 
 # 🎨 Advanced Presentation
-- [(MDN) Drawing Graphics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics)
-## Canvas
-- [(MDN) Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
-## WebGL
-- [(MDN) WebGL: 2D and 3D graphics for the web](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
-## Animation
-- 📫 [CSS Animation Weekly](http://weekly.cssanimation.rocks/) - Weekly newsletter
-- 📖 [CSS Animation 101](https://cssanimation.rocks/css-animation-101/)
+
+## Topics
+- Canvas
+- WebGL
+- Animation
+  - 📫 [CSS Animation Weekly](http://weekly.cssanimation.rocks/) - Weekly newsletter
+  - 📖 [CSS Animation 101](https://cssanimation.rocks/css-animation-101/)
 
 
 
 ---
 
 # 📱 Mobile Friendly
-- [`viewport` meta tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
+
+## Topics
+- `viewport` meta tag
 
 
 ---
@@ -76,6 +82,19 @@ _Needs to go somewhere_
 # 🎢 Javascript
 - 📖 [Eloquent Javascript](https://eloquentjavascript.net/)
 - 📖 [Just Javascript](https://justjavascript.com/)
+
+## Topics
+- Async Programming
+  - Promises
+  - Callbacks
+  - Async/Await
+- Prototype
+- Closures
+- Modules (ESM/CJS)
+- Iterators & Generators
+- Functional Programming (basics)
+- "Standard" Objects
+  - Set, WeakSet, BigInt, Symbol, Date
 
 
 ---
