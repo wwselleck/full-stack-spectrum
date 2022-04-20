@@ -14,6 +14,7 @@ _Needs to go somewhere_
 # 🌞 HTML
 
 ## Topics
+- Semantic HTML
 - `meta` tags
   - `viewport`, `title`, `description`
 - SVG
@@ -51,6 +52,8 @@ _Needs to go somewhere_
 - 🎥 [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 
 ---
+
+
 
 
 
@@ -102,36 +105,61 @@ _Needs to go somewhere_
 
 
 # 📜 DOM
-- 📝 [(MDN) DOM Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
+## Topics
+- DOM Manipulation
+  - Finding nodes
+    - `querySelector` & `querySelectorAll`
+    - `NodeList`
+  - Adding/Removing nodes
+- DOM Events
+  - 🪁 [domevents.dev](https://domevents.dev/) - DOM event playground
+  - Adding/Removing event listeners
+    - `addEventListener` & `removeEventListener`
+  - Common event types
+    - `click`, `blur`, `focus`, `mousedown`, `mouseup`, `mouseover`, `dblclick`
+  - Event Bubbling & Capturing
+  - `preventDefault`
+- Layering
+  - 📝 [Don’t attach tooltips to document.body](https://atfzl.com/don-t-attach-tooltips-to-document-body?utm_source=pocket_mylist)
 
-## DOM Events
-- 📝 [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events) (MDN)
-- 🪁 [domevents.dev](https://domevents.dev/) - DOM event playground
-
-## Layering
-- 📝 [Don’t attach tooltips to document.body](https://atfzl.com/don-t-attach-tooltips-to-document-body?utm_source=pocket_mylist)
 ---
 
 
 
 # 💻 Browser Environment
-- [(MDN) Window API](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 
-## Browser Storage
-- Cookies
-- LocalStorage, SessionStorage
-- IndexedDB
+## Topics
+- Browser Storage
+  - Cookies
+  - LocalStorage/SessionStorage
+  - IndexedDB
+- Web APIs
+  - `fetch`, `XMLHttpRequest`
+
+
 
 ---
 
 
 
 # 🧬 React
-## State Management
 
-## Forms
-### Controlled/Uncontrolled Components
-## Testing
+## Topics
+- JSX
+- Hooks
+- Lists & Keys
+- Context
+- Forms
+  - Controlled vs. Uncontrolled Components
+- State Management
+  - `useState`, `useReducer`
+  - State normalization
+  - Shared state solutions (`redux`, `MobX`, etc)
+- Data fetching
+  - `useEffect`
+- Error boundaries
+- Testing
+  - `react testing library`, `enzyme`
 
 ---
 
