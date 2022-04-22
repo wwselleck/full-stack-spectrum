@@ -39,9 +39,16 @@ _Needs to go somewhere_
   - 🧑‍🏫 [Flexbox Zombies](https://mastery.games/flexboxzombies/)
 - CSS Grid
   - 🧑‍🏫 [Grid Critters](https://gridcritters.com/)
-
-
-
+- Common methodologies
+  - BEM
+  - OOCSS
+  - Atomic CSS
+- Preprocessors
+  - LESS/SASS
+  - PostCSS
+- Frameworks
+  - Atomic Frameworks (Tailwind, Bootstrap)
+  - Components Frameworks (Chakra, Material)
 
 
 
@@ -258,6 +265,7 @@ _Needs to go somewhere_
 
 # 🔐 Web Security
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
 
 ## Topics
 - CSRF
