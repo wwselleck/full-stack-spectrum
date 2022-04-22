@@ -118,7 +118,7 @@ _Needs to go somewhere_
   - Common event types
     - `click`, `blur`, `focus`, `mousedown`, `mouseup`, `mouseover`, `dblclick`
   - Event Bubbling & Capturing
-  - `preventDefault`
+  - `preventDefault` & `stopPropoation
 - Layering
   - 📝 [Don’t attach tooltips to document.body](https://atfzl.com/don-t-attach-tooltips-to-document-body?utm_source=pocket_mylist)
 
@@ -216,7 +216,17 @@ _Needs to go somewhere_
 
 
 
+---
 
+# 📠 Networking
+## Topics
+- OSI Model
+- TCP vs. UDP
+- IPv4 & IPv6
+- MAC addresses
+- NAT
+- DNS
+  - Records (A, CNAME, MX...)
 ---
 
 
