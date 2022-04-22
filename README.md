@@ -139,9 +139,10 @@ _Needs to go somewhere_
       - Secure
       - HTTP-Only
       - Same-site
-    - Session vs. Persistent Cookies
+    - Session vs. Persistent cookies
     - Encrypted cookies
-    - Third-party Cookies
+    - Signed cookies
+    - Third-party cookies
     - Supercookies (related: public suffix list)
   - LocalStorage/SessionStorage
   - IndexedDB
