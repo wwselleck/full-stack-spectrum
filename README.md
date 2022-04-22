@@ -131,8 +131,21 @@ _Needs to go somewhere_
 ## Topics
 - Browser Storage
   - Cookies
+    - Setting cookies
+      - `Set-Cookie` header
+      - `document.cookie`
+    - Cookie attributes
+      - Expiration
+      - Secure
+      - HTTP-Only
+      - Same-site
+    - Session vs. Persistent Cookies
+    - Encrypted cookies
+    - Third-party Cookies
+    - Supercookies (related: public suffix list)
   - LocalStorage/SessionStorage
   - IndexedDB
+- CORS
 - Web APIs
   - `fetch`, `XMLHttpRequest`
 
@@ -234,6 +247,9 @@ _Needs to go somewhere_
 
 # 🔐 Web Security
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
+## Topics
+- CSRF
 
 
 
