@@ -257,7 +257,9 @@ _Needs to go somewhere_
 # 💂 Authentication
 - 📝 [Learn Authentication the Hard Way](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/)
 
-
+## Topics
+- Passwords
+  - Rainbow Tables
 
 ---
 
