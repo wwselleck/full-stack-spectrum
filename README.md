@@ -208,8 +208,23 @@ _Needs to go somewhere_
 ---
 
 
+
 # 👩‍💻SEO
 - [Google SEO Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide)
+
+
+---
+
+# 🆗 HTTP
+## Topics
+- Methods
+  - GET, POST, PUT, PATCH, DELETE, OPTIONS
+- Caching
+  - `Cache-Control` header
+    - 📝 [What's the difference between Cache-Control: max-age=0 and no-cache?](http://stackoverflow.com/questions/1046966/whats-the-difference-between-cache-control-max-age-0-and-no-cache)
+    - `max-age`
+    - `no-cache`
+
 
 
 ---
