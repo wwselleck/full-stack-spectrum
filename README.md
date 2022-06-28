@@ -168,6 +168,7 @@ _Needs to go somewhere_
 ## Topics
 - JSX
 - Hooks
+  - When to/not to use `useEffect`
 - Lists & Keys
 - Context
 - Forms
