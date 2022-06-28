@@ -275,6 +275,7 @@ _Needs to go somewhere_
 
 ## Topics
 - Passwords
+  - Hashing & Salting
   - Rainbow Tables
 
 ---
